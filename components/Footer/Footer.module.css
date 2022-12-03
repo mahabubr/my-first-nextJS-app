@@ -1,0 +1,16 @@
+.footer {
+    background-color: #2B3A55;
+    padding: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.title {
+    color: #E8F3D6;
+}
+.list {
+    list-style: none;
+    color: #fff;
+    font-size: 20px;
+}
